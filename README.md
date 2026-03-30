@@ -112,8 +112,8 @@ It includes real-world datasets, ML models, and analytical projects demonstratin
 
 ## 📬 Connect With Me
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: www.linkedin.com/in/rajnish-kumar-5b2a872b6
+* 📧 Email: rajnish190605@gmail.com
 
 ---
 
