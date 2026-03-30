@@ -1,94 +1,119 @@
-# 🚀 Machine Learning & Data Analytics Projects
+# 🚀 ML & Data Analytics Portfolio
 
-Welcome to my GitHub repository! 👋
-This repository showcases my journey in **Machine Learning** and **Data Analytics**, where I apply data-driven techniques to solve real-world problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Projects-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Insights-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-Data%20Science-yellow?style=for-the-badge">
+</p>
 
 ---
 
-## 📌 About This Repository
+## 👨‍💻 About This Repository
 
-This repo contains a collection of projects focused on:
+This repository showcases my work in **Machine Learning, Data Analytics, and Probability Simulations**.
+It includes real-world datasets, ML models, and analytical projects demonstrating practical skills.
 
-* 📊 Data Analysis & Visualization
-* 🤖 Machine Learning Models
-* 📈 Predictive Analytics
-* 🧹 Data Cleaning & Preprocessing
-* 🧠 Model Evaluation & Optimization
+---
 
-Each project demonstrates practical implementation along with insights derived from data.
+## 📂 Repository Structure
+
+```
+📦 ML-Data-Analytics
+ ┣ 📁 Employee
+ ┣ 📁 Tumour detection
+ ┣ 📁 austin project
+ ┣ 📁 covid19-analysis-project
+ ┣ 📄 covid19_deaths_dataset.csv
+ ┣ 📓 neural_network_letters_ABC.ipynb
+ ┣ 📓 probability_simulations.ipynb
+ ┗ 📄 README.md
+```
+
+---
+
+## 🔥 Projects Overview
+
+### 👨‍💼 Employee Project
+
+* Data analysis on employee dataset
+* Insights related to performance / trends
+* Data cleaning & preprocessing
+
+---
+
+### 🧬 Tumour Detection (ML Project)
+
+* Built a machine learning model for tumour prediction
+* Applied classification algorithms
+* Focus on accuracy and model evaluation
+
+---
+
+### 🌆 Austin Project
+
+* Data-based project (city-related dataset)
+* Performed analysis and visualization
+* Extracted meaningful patterns
+
+---
+
+### 🦠 COVID-19 Analysis Project
+
+* Analyzed COVID-19 dataset
+* Used real-world data (`covid19_deaths_dataset.csv`)
+* Visualized trends and impact
+
+---
+
+### 🔤 Neural Network - ABC Letters
+
+* Implemented a neural network model
+* Trained model to recognize letters (A, B, C)
+* Hands-on deep learning basics
+
+---
+
+### 🎲 Probability Simulations
+
+* Simulated probability experiments
+* Practical understanding of statistical concepts
+* Used Python for simulations
 
 ---
 
 ## 🛠️ Tech Stack
 
-Here are the tools and technologies I use:
-
-* **Languages:** Python 🐍, SQL
+* **Languages:** Python 🐍
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-* **ML Frameworks:** TensorFlow / PyTorch (if used)
+* **Concepts:** Machine Learning, Data Analysis, Neural Networks, Probability
 * **Tools:** Jupyter Notebook, VS Code, Git
-* **Visualization:** Power BI / Tableau (if used)
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 Project Name
- ┣ 📜 README.md
- ┣ 📊 dataset.csv
- ┣ 📓 notebook.ipynb
- ┗ 📁 outputs / visuals
-```
-
----
-
-## 🔥 Featured Projects
-
-### 📊 1. Data Analysis Project
-
-* Performed data cleaning and preprocessing
-* Visualized key insights using graphs
-* Derived meaningful conclusions
-
-### 🤖 2. Machine Learning Model
-
-* Built predictive model using supervised learning
-* Trained and tested on real datasets
-* Evaluated using accuracy, precision, recall
-
-### 📈 3. Dashboard / Visualization
-
-* Created interactive dashboards
-* Presented insights in a user-friendly way
-
----
-
-## 📊 Key Skills Demonstrated
+## 📊 Skills Demonstrated
 
 ✔ Data Cleaning & Preprocessing
 ✔ Exploratory Data Analysis (EDA)
-✔ Feature Engineering
-✔ Model Building & Evaluation
+✔ Machine Learning Models
+✔ Neural Networks Basics
 ✔ Data Visualization
+✔ Statistical Thinking
 
 ---
 
-## 🎯 Goals
+## 🎯 Future Improvements
 
-* Improve ML model accuracy
-* Work on real-world datasets
-* Build end-to-end data projects
-* Continuously learn and grow in Data Science
+* Add advanced ML models
+* Improve model accuracy
+* Work on larger real-world datasets
+* Build end-to-end data pipelines
 
 ---
 
 ## 📬 Connect With Me
 
-Feel free to connect or collaborate! 🤝
-
-* 💼 LinkedIn: (Add your link here)
-* 📧 Email: (Add your email here)
+* 💼 LinkedIn: (Add your link)
+* 📧 Email: (Add your email)
 
 ---
 
@@ -96,10 +121,12 @@ Feel free to connect or collaborate! 🤝
 
 If you like this repository:
 
-* Give it a ⭐
-* Share your feedback
-* Contribute ideas
+👉 Give it a ⭐
+👉 Fork it
+👉 Share feedback
 
 ---
 
-✨ *“Turning data into actionable insights.”*
+<p align="center">
+  ✨ <b>"Turning data into insights & models into impact."</b> ✨
+</p>
